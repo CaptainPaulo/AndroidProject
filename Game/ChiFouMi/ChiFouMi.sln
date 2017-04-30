@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{ACB08E95-EFB2-343E-C52B-36F734FB4549}") = "ChiFouMi", "Assembly-UnityScript.unityproj", "{EB4226D0-DAB6-7C55-F579-E2E3E8711810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4226D0-DAB6-7C55-F579-E2E3E8711810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4226D0-DAB6-7C55-F579-E2E3E8711810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4226D0-DAB6-7C55-F579-E2E3E8711810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4226D0-DAB6-7C55-F579-E2E3E8711810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
